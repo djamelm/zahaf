@@ -20,7 +20,10 @@ public class infomation {
     String resultat="Aucune information !";
     
         
-      if(this.nom != null && this.sexe != null && this.taille != null && this.cheveux != null &&(this.age!=null||this.age==null) ){
+      if(this.nom != null && this.sexe != null && this.taille != null && this.cheveux != null ){
+          if(this.age==null){
+               this.age = "null";
+          }
       resultat = "Description de votre caractère est:\n";
       resultat += "Nom : " + this.nom + "\n";
       resultat += "Sexe : " + this.sexe + "\n";
@@ -29,7 +32,7 @@ public class infomation {
       resultat += "Age : " + this.age + "\n";
       //obtenire les information de joueur est stocker dans un channe de caractére nommé "resultat" qui va afficher les information donnée par l'utilisateur
      } 
-      else if(this.nom == null && this.sexe == null && this.taille == null && this.cheveux == null&& this.age == null ){
+      else{
        resultat = "Aucune information !"; 
       //on cas les le l'utilisateur n'est pas entre les information par clicker sur "Annuller" la resultat est de afficher un message qui dit "Aucune information !"
        }
