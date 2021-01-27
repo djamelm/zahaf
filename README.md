@@ -25,6 +25,9 @@ condition 3 (all the element is not entered and you click on OK or Anuller):
 image5.png
 
 
+
+THE PROBLEM IS THAT ONLY TWO CONDITION WORK AT A TIME NOT ALL 3 I TRY ADDING THE CONDITION 1 AND2 TOGETHER BUT THEN THE CONDITION 3 DON'T WORK ,PLEASE HELP ME
+
 TIP: creat a pakacage and name it "ex03"
 
 
