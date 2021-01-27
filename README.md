@@ -1,5 +1,7 @@
 # zahaf
-probleme with 3 conditions if else
+probleme with 3 conditions if else:
+
+
 hi everyone so my goal is to create a window that can customize your character by choosing the name (nom)  your sex(sexe) your hight (taille) your hair color(Cheveux) and age,
 when you enter all your element which is CONDITION1 you get a pop-up window that tells you the information you enter (nom,sexe,taille ...etc), even if you don't enter the age you still gonna end it by seeing the popup window of information which is CONDITION2, NOW when you don't enter anything which is CONDITION 3 and you click on the button "OK" you get a pop-up window to tell you "no information is entered", hopefully now you understand and I'm gonna send you photos and the hole code to maybe understand the comment is on french just translate it.
 
