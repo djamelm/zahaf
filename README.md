@@ -15,6 +15,7 @@ condition 1 (all the element entered):
 
 
 image3.png
+
 condition 2 (if all the element is entered but no the age) ALSO THE SAME THING JUST IN AGE IT GONNA BE "NULL" AUTO CUZ NOT SELECTED:
  
 image4.png
